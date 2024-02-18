@@ -6,3 +6,4 @@
 
 ### rebase
 * rebase is an another merge strategies.
+* Devloper still developing.
