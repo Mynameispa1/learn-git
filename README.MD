@@ -3,3 +3,6 @@
 ### F1
 * Devloper 1 is developing the code.
 * Developer -1 finishes the development part.
+
+### rebase
+* rebase is an another merge strategies.
