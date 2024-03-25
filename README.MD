@@ -8,3 +8,7 @@
 * rebase is an another merge strategies.
 * Devloper still developing.
 * Development is completed.
+
+### dev1
+* developing
+* finished
